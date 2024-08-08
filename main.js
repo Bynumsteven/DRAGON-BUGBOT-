@@ -172,15 +172,15 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
         	console.log(chalk.magenta(` `))
-            console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+            console.log(chalk.yellow(`🐉Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Tech God`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: techgod143`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Dragon`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: Arlo-dragony`))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @techgod143 `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: tech god sir`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: Dragon`))
         }
         if (
             connection === "close" &&
