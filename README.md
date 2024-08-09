@@ -37,10 +37,10 @@
 <a href="https://www.instagram.com/techgod143/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+𝙳𝚁𝙰𝙶𝙾𝙽" alt="Typing SVG" /></a>
   
 # YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@techgod143)
+   [`More hacks & tutorials`](YouTube)
 
 # contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/917466008456?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/254746764468?text=Hi!! `DRAGON` Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
